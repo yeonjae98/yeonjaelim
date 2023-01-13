@@ -9,7 +9,7 @@
 <br>
 
 ### STUDYING 🍀
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### ABOUT ME 😎
 <a href="https://velog.io/@im_yeonjae"><img src="https://img.shields.io/badge/im__yeonjae-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@im_yeonjae"/></a>    <a href="https://www.instagram.com/lyj0121/"><img src="https://img.shields.io/badge/lyj__0121-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://velog.io/@im_yeonjae"/></a>   <img src="https://img.shields.io/badge/duswo121@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://velog.io/@im_yeonjae"/></a>
